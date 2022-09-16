@@ -1,0 +1,1 @@
+<img src="{{ asset('assets/images/classify-logo1.png') }}" alt="Classify" {{ $attributes }}>
